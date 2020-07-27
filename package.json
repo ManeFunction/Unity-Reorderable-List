@@ -1,6 +1,5 @@
 {
     "name": "com.malee.reorderablelist",
-    "author": "Chris Foulston (ManeFunction's fork w. Unity 2018 support)",
     "displayName": "Reorderable List",
     "version": "1.0.1",
     "unity": "2018.1",
@@ -9,6 +8,9 @@
         "editor",
         "list"
     ],
+    "author": {
+        "name": "Chris Foulston (ManeFunction's fork w. Unity 2018 support)"
+    },
     "description": "Editor extension for managing the ordering of List and Array contents",
     "samples": [
         {
