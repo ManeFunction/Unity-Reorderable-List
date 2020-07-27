@@ -1,6 +1,6 @@
 {
     "name": "com.malee.reorderablelist",
-    "author": "Chris Foulston",
+    "author": "Chris Foulston (ManeFunction's fork w. Unity 2018 support)",
     "displayName": "Reorderable List",
     "version": "1.0.1",
     "unity": "2018.1",
